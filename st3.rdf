@@ -1,0 +1,10 @@
+﻿<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:st="http://www.mydomain.org/st#">
+
+  <st:Students rdf:about="http://www.mydomain.org/st#17123">
+     <st:StudentNumber>17123</st:StudentNumber>
+     <st:StudentName>Иван Иванов Иванов</st:StudentName>
+     <st:Speciality>Информатика</st:Speciality>
+  </st:Students>
+</rdf:RDF>
