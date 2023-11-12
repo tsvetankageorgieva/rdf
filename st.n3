@@ -1,0 +1,8 @@
+﻿
+@prefix st: <http://www.mydomain.org/st#> .
+@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+ 
+st:st#17123 rdf:type st:Students ;
+        	st:StudentNumber "17123" ;
+        	st:StudentName "Иван Иванов Иванов" ;
+        	st:Speciality "Информатика" .
