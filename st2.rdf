@@ -7,5 +7,7 @@
    rdf:resource="st:Students" 
    st:StudentNumber="17123"
    st:StudentName="Иван Иванов Иванов"
-   st:Speciality="Информатика" />
+   st:Speciality="Информатика">
+   <rdf:type rdf:resource="st:Students"   />
+  </rdf:Description>
 </rdf:RDF>
