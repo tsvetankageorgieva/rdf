@@ -1,4 +1,4 @@
-ï»¿<rdf:RDF
+<rdf:RDF
  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
  xmlns:st="http://www.mydomain.org/st#">
   
@@ -6,6 +6,6 @@
    rdf:about="http://www.mydomain.org/st#17123"
    rdf:type = "st:Students" 
    st:StudentNumber="17123"
-   st:StudentName="Ð˜Ð²Ð°Ð½ Ð˜Ð²Ð°Ð½Ð¾Ð² Ð˜Ð²Ð°Ð½Ð¾Ð²"
-   st:Speciality="Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð¸ÐºÐ°" />
+   st:StudentName="Èâàí Èâàíîâ Èâàíîâ"
+   st:Speciality="Èíôîðìàòèêà" />
 </rdf:RDF>
