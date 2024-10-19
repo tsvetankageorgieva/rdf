@@ -6,6 +6,6 @@
    rdf:about="http://www.mydomain.org/st#17123"
    rdf:type = "st:Students" 
    st:StudentNumber="17123"
-   st:StudentName="Èâàí Èâàíîâ Èâàíîâ"
-   st:Speciality="Èíôîðìàòèêà" />
+   st:StudentName="Ð˜Ð²Ð°Ð½ Ð˜Ð²Ð°Ð½Ð¾Ð² Ð˜Ð²Ð°Ð½Ð¾Ð²"
+   st:Speciality="Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚Ð¸ÐºÐ°" />
 </rdf:RDF>
