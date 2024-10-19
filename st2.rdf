@@ -4,7 +4,7 @@
   
  <rdf:Description 
    rdf:about="http://www.mydomain.org/st#17123"
-   rdf:type = "st:Students" 
+   rdf:resource="st:Students" 
    st:StudentNumber="17123"
    st:StudentName="Иван Иванов Иванов"
    st:Speciality="Информатика" />
